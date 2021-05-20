@@ -1,0 +1,11 @@
+
+1) Dataset içindeki türleri (genre) kendi aralarında gruplandırınız.
+2) Dataset içindeki her bir şarkının Danceability'sini görselleştiriniz.
+(tabloda şarkının adı yerine sıra numarasını yazabilirsiniz)
+3) Gruplandırdığınız her bir türün enerjisiyle arasında bir ilişki kurunuz ve
+ bu ilişkiyi görselleştiriniz. (sorunun ucu açık bir soru olduğunu biliyoruz, kendi yorumunuzu görmek istedik :))
+
+Not: Soruların izlediğiniz video konularından bir tık daha ilerde olduğunu biliyoruz ancak
+artık Python'ı öğrendiğiniz için bir şeyleri araştırarak kendiniz çözmeniz gerekmektedir.
+ Hatta sizin için bir ipucu da bırakıyoruz
+İpucu: Pandas, Numpy, Matplotlib, Seaborn
